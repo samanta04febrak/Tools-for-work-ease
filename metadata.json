@@ -1,0 +1,5 @@
+{
+  "name": "Shram Sarathi: Indian Labour Law Navigator V1.1",
+  "description": "An application to provide detailed information and answers about the 29 labour law codes of India using the Gemini API. Select a law from the dropdown or ask a question to get a comprehensive overview.",
+  "requestFramePermissions": []
+}
